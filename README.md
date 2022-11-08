@@ -1,4 +1,4 @@
-Calculadora de IMC - Atividade da disciplina de front-end na pós-unyleya de Desenvolvimento Web Full Stack.
+# Calculadora de IMC - Atividade da disciplina de front-end na pós-unyleya de Desenvolvimento Web Full Stack.
 
 Hospedado no GitHub Pages: https://jeftesilva.github.io/calculadora-imc/
 
